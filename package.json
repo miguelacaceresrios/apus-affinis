@@ -549,11 +549,11 @@
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
-    "@types/node": "^22.20.2",
+    "@types/node": "^26.5.1",
     "@types/vscode": "~1.90.0",
     "@vscode/l10n-dev": "^0.0.35",
     "@vscode/test-electron": "^3.1.0",
-    "@vscode/vsce": "^3.9.2",
+    "@vscode/vsce": "^4.0.0",
     "c8": "^12.0.0",
     "esbuild": "^0.28.2",
     "eslint": "^10.10.0",
@@ -562,7 +562,7 @@
     "prettier": "^3.9.7",
     "svg2ttf": "^6.1.0",
     "ttf2woff": "^3.0.0",
-    "typescript": "~5.9",
+    "typescript": "~7.0",
     "typescript-eslint": "^8.70.0"
   }
 }
